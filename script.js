@@ -2,7 +2,7 @@ const cities = [
     {
         title: "Manila",
         description: "Manila, the capital of the Philippines, is a bustling metropolis blending Spanish colonial history with modern city life. The city is known for its vibrant culture, historic Intramuros district, and the famous Manila Bay sunset.",
-        image: "/images/manila_img.jpg",
+        image: "images/manila_img.jpg",
         imageAlt: "Manila at night",
         latitude: 14.5995,
         longitude: 120.9842,
@@ -17,7 +17,7 @@ const cities = [
     {
         title: "Cebu",
         description: "Cebu City is the oldest city in the Philippines and the first Spanish settlement. It's a gateway to stunning beaches, diving spots, and the famous Sinulog Festival. It is also a major tradehub, the birthplace of Christianity in the Philippines, and features rich historical sites. ",
-        image: "/images/cebu.jpg",
+        image: "images/cebu.jpg",
         imageAlt: "Cebu city",
         latitude: 10.3157,
         longitude: 123.8854,
@@ -32,7 +32,7 @@ const cities = [
     {
         title: "Davao",
         description: "Davao is the largest city in the Philippines by land area. It's known for Mount Apo, the country's highest peak, durian, and the Philippine Eagle Center. It is a great city for nature lovers and those looking to experience the mix of indigenous culture and cuisines in the Philippines.",
-        image: "/images/davao.jpg",
+        image: "images/davao.jpg",
         imageAlt: "Davao city",
         latitude: 7.1907,
         longitude: 125.4553,
@@ -47,7 +47,7 @@ const cities = [
     {
         title: "Boracay Island",
         description: "Boracay is a small island in central Philippines known for its white sandy beaches and crystal clear turquoise waters. It's a tropical paradise perfect for a relaxing vacation with diverse water activities and nightlife.",
-        image: "/images/boracay.jpg",
+        image: "images/boracay.jpg",
         imageAlt: "Boracay island",
         latitude: 11.9674,
         longitude: 121.9248,
